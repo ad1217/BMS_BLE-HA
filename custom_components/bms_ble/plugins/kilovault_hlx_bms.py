@@ -62,7 +62,7 @@ class BMS(BaseBMS):
                 "service_uuid": BMS.uuid_services()[0],
                 "connectable": True,
             }
-            for pattern in ["7-12V300AH-*"]
+            for pattern in ["7-12V300Ah-CR-*"]
         ]
 
     @staticmethod
