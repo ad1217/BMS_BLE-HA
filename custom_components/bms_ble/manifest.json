@@ -194,6 +194,9 @@
     {
       "service_uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
       "manufacturer_id": 35579
+    },
+    {
+      "local_name": "7-12V???Ah-*"
     }
   ],
   "codeowners": [
